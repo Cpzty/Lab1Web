@@ -1,5 +1,78 @@
+/*
+Cristian Perez Carnet 16011
+CSS
+*/
+
 .cabeza{
   height: 100px;
-  width: 100px;
-  background-color: #63768d;
+  width: 50%;
+  background-color: #0a1731;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;
+  
+  
+  
+  
+}
+
+/*imagen del kmodo*/
+.cabeza:first-child{
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.kmodontxt{
+  box-sizing: content-box;
+  position: absolute;
+  height: inherit;
+}
+
+.kmodontxt:hover{
+  transform: scale(1.5);
+  
+}
+
+/*span*/
+.logotxt{
+  display: inline-block;
+  color: #fff; 
+  font-family:arial; 
+  font-size: 30px; 
+  text-align: left;
+  
+
+  
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 100px;
+}
+
+/*imagen de boton de play*/
+.play{
+  margin-left: 200px;
+  
+}
+
+.playtxt{
+  display: inline-block;
+  color: #fff; 
+  font-family:arial; 
+  font-size: 20px; 
+  position: absolute;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.playtxt:hover{
+  color: aqua;
+}
+.cabeza2{
+  height: 100px;
+  width: 50%;
+  /*background-color: #63768d;  color del cuerpo no de la cabeza*/
+  background-color: #0a1731;
+  float: right;
+  box-sizing: border-box;
+  
 }
