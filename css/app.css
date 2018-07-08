@@ -9,11 +9,8 @@ CSS
   background-color: #0a1731;
   float: left;
   border-left: none;
-  box-sizing: border-box;
-  
-  
-  
-  
+  box-sizing: border-box;  
+  border-bottom: none;
 }
 
 /*imagen del kmodo*/
@@ -100,3 +97,80 @@ CSS
   border: 0px;
   color: #fff;
 }
+
+.body1{
+  height: 700px;
+  width: 50%;
+  background-color: #63768d;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+}
+
+.kmodolearn{
+  color: #fff;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.learnbtn{
+  margin-left: 50px;
+  margin-top: 50px;
+  border: 0px;
+  font-size: 19px;
+  background-color: #d42415;
+  color: #fff;
+}
+
+.learnbtn:hover{
+  transform: scale(1.2);
+}
+
+.spn2{
+  margin-left: 50px;
+  font-size: 22px;
+  color: antiquewhite;
+}
+
+
+
+.body1-1{
+  height: 700px;
+  width: 50%;
+  background-color: #63768d;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+}
+
+.genuser{
+  margin-left: 150px;
+  margin-top: 50px;
+}
+
+.genuser:hover{
+  transform: scale(1.5);
+}
+
+.body2{
+  height: 700px;
+  width: 50%;
+  background-color: #fff;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+}
+
+.body2-1{
+  height: 700px;
+  width: 50%;
+  background-color: #fff;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+}
+
