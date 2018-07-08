@@ -76,3 +76,27 @@ CSS
   box-sizing: border-box;
   
 }
+
+.searchtxt{
+  position: relative;
+  margin-top: 40px;
+  margin-left: 80px;
+  background-color: #63768d;
+  color: #fff;
+  border: 0px;
+}
+
+.searchbtn{
+  border: 0px;
+}
+
+.pro{
+  background-color: #2ad070;
+  border: 0px;
+}
+
+.signin{
+  background-color: #0a1731;
+  border: 0px;
+  color: #fff;
+}
