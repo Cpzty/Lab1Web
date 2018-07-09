@@ -310,6 +310,7 @@ CSS
 
 .body4h1{
   margin-left: 50px;
+  margin-top: 200px;
 }
 
 .body4p1{
@@ -339,13 +340,202 @@ CSS
   background-color:#0a1731;
   float: left;
   width: 50%;
-  height: 400px;
+  height: 500px;
+  box-sizing: border-box;
+  
 }
 
 .body6-1{
   background-color:#0a1731;
   float: right;
   width: 50%;
+  height: 500px;
+}
+
+.body6box1{
+  background-color: #fff;
+  width: 50%;
+  height: 50%;
+  box-sizing: border-box;
+  margin-left: 50px;
+  float: left;
+  text-align: center;
+  margin-bottom: 10px;
+  margin: 0px;
+  border-style: dashed;
+  border-bottom: 0px;
+  
+}
+
+.timealign{
+  position: absolute;
+  margin-top: 7px;
+  left: 100px;
+}
+
+.lessonalign{
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 60px;
+}
+
+
+.body6box2{
+  background-color: #fff;
+  width: 50%;
+  height: 50%;
+  box-sizing: border-box;
+  margin-left: 50px;
+  float: left;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin: 0px;
+  border-style: dashed;
+  
+}
+
+.body6box3{
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  margin-left: 50px;
+  float: right;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin: 0px;
+  border-style: dashed;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.txtalignbox3{
+  margin-top: 200px;
+}
+
+.timealignbox3{
+  position: absolute;
+  left: 400px;
+  
+}
+
+.box3img{
+  display: block;
+  margin-top: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body6-1box3{
+  display: block;
+  background-color: #fff;
+  width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  margin-left: 50px;
+  float: right;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin: 0px;
+  border-style: dashed;
+  border-left: 0px;
+}
+
+.body7{
+  float: left;
   height: 400px;
+  width: 50%;
+  background-color: #11144e;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+}
+
+.body7-1{
+  float: left;
+  height: 400px;
+  width: 50%;
+  background-color: #11144e;
+  float: left;
+  border-left: none;
+  box-sizing: border-box;  
+  border-top: none;
+  text-align: center;
+}
+
+.lastlogo{
+  display: block;
+  margin-top: 100px;
+  margin-left: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
+
+.row1body7{
+  float: left;
+  width: 25%;
+  height: 200px;
+  text-align: center;
+  box-sizing: border-box;
+  color: white;
+  
+}
+
+.linksbody7{
+  text-decoration: none;
+  color: wheat;
+}
+
+.linksbody7-1{
+  text-decoration: none;
+  color: wheat;
+}
+
+.linksbody7-2{
+  text-decoration: none;
+  color:wheat;
+}
+
+.linksbody7:hover, .linksbody7-1:hover, .linksbody7-2:hover{
+  transform: scale(1.2);
+  color: aqua;
+}
+
+.row2body7{
+  width: 25%;
+  height: 200px;
+  text-align: center;
+  box-sizing: border-box;
+  color: white;
+  float: left;
+  
+}
+
+.searchatbottom{
+  margin-top: 150px;
+  color: #fff;
+}
+
+.searchbottomtxt{
+  position: relative;
+  
+}
+
+.searchimgbot{
+  vertical-align: middle;
+}
+
+.hide{
+  color: white;
+}
+
+.terms{
+  margin-left: 50px;
 }
 
